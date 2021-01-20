@@ -5,3 +5,4 @@ if (a=="Hello World") {
 } else{
   echo "a n'est pas égal à Hello World";
 }
+?>
