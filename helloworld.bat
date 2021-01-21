@@ -1,1 +1,1 @@
-echo Hello World
+set a = Hello World
