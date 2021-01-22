@@ -4,4 +4,4 @@ if (a=="Hello World") {
 } else{
   console.log(`a n'est pas égal à Hello World`);
 }
-//Même chose que le JavaScript
+// Même chose que le JavaScript
