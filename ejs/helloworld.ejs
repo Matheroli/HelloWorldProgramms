@@ -1,10 +1,14 @@
 <!DOCTYPE html>
-<html lang=fr dir=ltr>
+<html lang="fr" dir="ltr">
 <head>
     <title>Ejs</title>
     <meta charset="utf-8">
 </head>
 <body>
-    <h1>Hello World</h1>
+    <script src="ejs.js"></script>
+    <script>
+      let a = "Hello World";
+      let html = ejs.render('<%= a; %>', {a: a});
+    </script>
 </body>
 </html>
