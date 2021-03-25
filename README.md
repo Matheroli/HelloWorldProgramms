@@ -66,3 +66,9 @@ int main() {
     return 0;
 }
 ```
+
+# Typescript
+```ts
+let a: string = "Hello World";
+console.log(a);
+```
