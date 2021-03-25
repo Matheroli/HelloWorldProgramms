@@ -22,10 +22,19 @@ console.log(a);
 ```
 
 # Python
-
 ```py
 a = "Hello World"
 print(a)
 ```
 
 # Java
+```java
+public class HelloWorld {
+
+    public static void main(String[] args) {
+      string a = "Hello World";
+      System.out.println(a);
+    }
+
+}
+```
