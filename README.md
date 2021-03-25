@@ -38,3 +38,11 @@ public class HelloWorld {
 
 }
 ```
+
+# Dart
+```dart
+void main() {
+  String a = "Hello World !";
+  print(a);
+}
+```
