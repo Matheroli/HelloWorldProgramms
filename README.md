@@ -20,3 +20,12 @@ Tous les programmes Hello World dans les principaux langages de programmation.
 let a = "Hello World";
 console.log(a);
 ```
+
+# Python
+
+```py
+a = "Hello World"
+print(a)
+```
+
+# Java
