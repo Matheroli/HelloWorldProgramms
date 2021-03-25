@@ -14,3 +14,9 @@ Tous les programmes Hello World dans les principaux langages de programmation.
 </body>
 </html>
 ```
+
+# JavaScript
+```js
+let a = "Hello World";
+console.log(a);
+```
